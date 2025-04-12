@@ -36,6 +36,9 @@ communication
 
 
 # Configuring The Network
+1. Logged into the command terminal of all routers and configured IP addresses on all router interfaces
+
+   ![Alt text](https://github.com/user-attachments/assets/e63eebfd-7395-49b3-9887-eed0ca16fbf9)
 
 
 
