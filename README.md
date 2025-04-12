@@ -10,7 +10,7 @@ The networking concepts that I will apply in this lab include:
 
 
 # Designing The Topology
-As you can see from ![Alt text](Packet Tracer Lab Clear Image 1.png)  here is the layout of the topology I will be configuring.
+As you can see from ![Alt text](https://Packet-Tracer-Lab-Clear-Image1.png)  here is the layout of the topology I will be configuring.
 It consists of 11 routers, 7 switches, 7 PC's and 2 web servers, i will be configuring everything on the network to be able to communicate with each other. 
 
 
